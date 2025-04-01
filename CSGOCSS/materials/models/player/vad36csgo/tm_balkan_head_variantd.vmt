@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$baseTexture "models\player\vad36csgo\tm_balkan_head_variantd.vmt"
+$bumpmap "models\player\vad36csgo\tm_balkan_head_variantd_normal"
+$phongexponenttexture "models\player\vad36csgo\tm_balkan_head_variantd_exponent"
+$rimmask 1
+}

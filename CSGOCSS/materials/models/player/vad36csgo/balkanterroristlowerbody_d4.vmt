@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$baseTexture "models\player\vad36csgo\BalkanTerroristLowerBody_d4.vmt"
+$bumpmap "models\player\vad36csgo\BalkanTerroristLowerBody_n"
+$phongexponenttexture "models\player\vad36csgo\BalkanTerroristLowerBody_exponent"
+$rimmask 1
+}

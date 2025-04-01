@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\player\vad36csgo\tm_Phoenix_Upperbody"
+$bumpmap "models\player\vad36csgo\tm_Phoenix_Upperbody_normal"
+}
+

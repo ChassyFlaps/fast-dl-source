@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+$baseTexture "models\player\vad36csgo\tm_leet_lowerbody_variantb"
+$bumpmap "models\player\vad36csgo/tm_leet_lowerbody_variantb_normal"
+$phongexponenttexture "models\player\vad36csgo\tm_leet_lowerbody_variantb_exponent"
+$rimlight 0
+$nodecal 1
+}
