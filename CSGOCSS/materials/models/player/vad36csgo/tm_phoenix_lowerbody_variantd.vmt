@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-$baseTexture "models\player\vad36csgo\tm_phoenix_lowerbody"
-$bumpmap "models\player\vad36csgo\tm_phoenix_lowerbody_normal"
-}
-

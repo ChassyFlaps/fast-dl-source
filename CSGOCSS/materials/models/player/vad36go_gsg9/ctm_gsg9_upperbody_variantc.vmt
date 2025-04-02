@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-$baseTexture "models\player\vad36go_gsg9\ctm_gsg9_upperbody_variantC"
-$bumpmap "models\player\vad36go_gsg9\ctm_gsg9_upperbody_normal"
-$phongexponenttexture "models\player\vad36go_gsg9\ctm_gsg9_upperbody_exponent"
-$rimmask 1
-}

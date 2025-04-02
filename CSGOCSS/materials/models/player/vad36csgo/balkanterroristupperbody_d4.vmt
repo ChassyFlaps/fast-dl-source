@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-$baseTexture "models\player\vad36csgo\BalkanTerroristUpperBody_d4"
-$bumpmap "models\player\vad36csgo\BalkanTerroristUpperBody_n"
-$phongexponenttexture "models\player\vad36csgo\BalkanTerroristUpperBody_exponent"
-$rimmask 1
-}
